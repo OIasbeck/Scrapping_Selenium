@@ -63,7 +63,7 @@ class Acesso:
         '''
 
         # ---------------------Outros parâmetros que são de extrema valia para uma melhor aplicação do scrapping automático-------------------#
-        ## Explicita opções de parâmetros que serão passados para o selenium 
+                ## Explicita opções de parâmetros que serão passados para o selenium 
         #options = Options()
         
                 ## Acrescenta um parâmetro de diretório para salvar o dowload realizado no controle do selenium (ele realiza o dowload já para a pasta de destino colocada, ao invés da pasta de dowloads do google)
